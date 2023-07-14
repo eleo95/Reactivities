@@ -3,7 +3,6 @@ import {
   Container,
   Dropdown,
   DropdownItem,
-  DropdownMenu,
   Image,
   Menu,
 } from "semantic-ui-react";
